@@ -1,0 +1,25 @@
+Introduction to Python
+-popular programming language .
+-created by Guido van Rossum
+-relesaed in 1991 at CWI (centrum wiskunde & Information) NetherLand
+-General Purpose,High level programming
+-dynamic
+
+why python?
+-simple & Easy to Learn 
+-Platform Independent
+-free & Open source
+-interpreted (bytecode-compailed)
+-Rich library support
+-Embeddable  & Extensible
+-portable
+-robust 
+
+where pythone is used?
+-web framework and applications
+-GUB-based desktop application
+-Graphic design ,image processing application
+-games and scientific /computation apllication
+-Data science ,Data visualization
+-IOT
+-Database Development
