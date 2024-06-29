@@ -1,0 +1,19 @@
+Data types in Python
+1.Numeric type-int- Float- complex
+2.Text type
+    -str
+3.Boolen  type
+    -Bool
+4.sequence type
+    -list
+    -tuple
+    -range
+5.Mapping type
+    -Dictionaries (key value pair)
+6.set type:
+    -set (unique_numbers)
+7.Binary types
+-bytes
+-bytearray
+e.g :images
+8.None Type

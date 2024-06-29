@@ -50,3 +50,8 @@ is_student = True
 # Printing updated values
 print("Updated Age:", age)
 print("Updated Is student:", is_student)
+### Checking Variable Type
+# You can check the type of a variable using the `type()` function:
+
+x = 10
+print(type(x))  # Output: <class 'int'>
